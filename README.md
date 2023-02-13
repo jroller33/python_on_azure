@@ -1,4 +1,6 @@
-# Deploy a Python/Flask web app to Azure App Service
+# Deploy a Python/Flask web app to Azure
+
+This is a simple web app using Python and Flask that's deployed to Azure. I made this to learn about deploying apps on Azure, and moving forward all of my apps will be deployed on Azure instead of Heroku or GitHub.
 
 ## Link
 
